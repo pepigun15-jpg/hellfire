@@ -1,0 +1,1 @@
+export default function App(){return <div style={{background:'black',color:'red',height:'100vh'}}>HELLFIRE</div>}
